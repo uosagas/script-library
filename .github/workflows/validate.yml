@@ -1,0 +1,20 @@
+name: Validate
+
+# Structure check for incoming pull requests. This is a status check only —
+# merging stays a manual maintainer decision.
+on:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python tools/validate.py --base "origin/${{ github.base_ref }}"
+        env:
+          PR_AUTHOR: ${{ github.event.pull_request.user.login }}

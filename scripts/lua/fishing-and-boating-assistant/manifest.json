@@ -1,0 +1,21 @@
+{
+  "name": "Fishing and Boating Assistant",
+  "slug": "fishing-and-boating-assistant",
+  "language": "lua",
+  "author": "Tacuba, Coolskin",
+  "description": "Boat navigation gump and fishing assistance.",
+  "category": "utility",
+  "tags": [
+    "utility"
+  ],
+  "created": "2026-08-10",
+  "updated": "2026-08-10",
+  "latest": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "versions/1.0.0.lua",
+      "date": "2026-08-10"
+    }
+  ]
+}

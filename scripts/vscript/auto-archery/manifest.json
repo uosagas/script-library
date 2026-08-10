@@ -1,0 +1,22 @@
+{
+  "name": "AutoArchery",
+  "slug": "auto-archery",
+  "language": "vscript",
+  "author": "3HMonkey",
+  "description": "Automatically attacks nearby creatures. Can also be used as auto archery with adjustments.",
+  "category": "combat",
+  "tags": [
+    "combat",
+    "training"
+  ],
+  "created": "2025-12-10",
+  "updated": "2025-12-10",
+  "latest": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "versions/1.0.0.vscript",
+      "date": "2025-12-10"
+    }
+  ]
+}

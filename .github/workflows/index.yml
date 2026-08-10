@@ -1,0 +1,29 @@
+name: Build index
+
+# Rebuilds index.json from all manifests after a merge. The paths filter keeps
+# the follow-up commit (which only touches index.json) from re-triggering.
+on:
+  push:
+    branches: [main]
+    paths: ['scripts/**']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python tools/build_index.py
+      - name: Commit index.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.json
+          git diff --cached --quiet || git commit -m "Rebuild index.json"
+          git push

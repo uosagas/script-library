@@ -1,0 +1,22 @@
+{
+  "name": "Simple Scavenger",
+  "slug": "simple-scavenger",
+  "language": "lua",
+  "author": "3HMonkey",
+  "description": "Scavenges for specific items and picks them up if found.",
+  "category": "farming",
+  "tags": [
+    "farming",
+    "utility"
+  ],
+  "created": "2026-08-10",
+  "updated": "2026-08-10",
+  "latest": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "versions/1.0.0.lua",
+      "date": "2026-08-10"
+    }
+  ]
+}

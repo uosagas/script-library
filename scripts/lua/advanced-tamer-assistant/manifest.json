@@ -1,0 +1,21 @@
+{
+  "name": "Advanced Tamer Assistant",
+  "slug": "advanced-tamer-assistant",
+  "language": "lua",
+  "author": "3HMonkey",
+  "description": "Taming trainer, Ultimate Edition.",
+  "category": "training",
+  "tags": [
+    "training"
+  ],
+  "created": "2026-08-10",
+  "updated": "2026-08-10",
+  "latest": "2.0.0",
+  "versions": [
+    {
+      "version": "2.0.0",
+      "file": "versions/2.0.0.lua",
+      "date": "2026-08-10"
+    }
+  ]
+}
