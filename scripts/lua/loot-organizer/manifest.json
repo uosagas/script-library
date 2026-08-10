@@ -1,0 +1,15 @@
+{
+  "name": "Loot Organizer",
+  "slug": "loot-organizer",
+  "language": "lua",
+  "author": "3HMonkey",
+  "description": "Sorts the contents of any container (a corpse, a loot bag or your backpack) into destination containers assigned per category through the script window. Optional item identification and good-loot routing; settings persist via the Config API.",
+  "category": "utility",
+  "tags": ["utility", "helpers"],
+  "created": "2026-08-10",
+  "updated": "2026-08-10",
+  "latest": "1.0.0",
+  "versions": [
+    { "version": "1.0.0", "file": "versions/1.0.0.lua", "date": "2026-08-10" }
+  ]
+}
