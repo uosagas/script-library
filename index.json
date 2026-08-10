@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-10T18:27:27Z",
+  "generated": "2026-08-10T18:31:16Z",
   "count": 13,
   "scripts": [
     {
@@ -24,7 +24,7 @@
       ],
       "id": "lua/advanced-tamer-assistant",
       "dir": "scripts/lua/advanced-tamer-assistant",
-      "size": 42289
+      "size": 41200
     },
     {
       "name": "Fishing and Boating Assistant",
@@ -48,7 +48,7 @@
       ],
       "id": "lua/fishing-and-boating-assistant",
       "dir": "scripts/lua/fishing-and-boating-assistant",
-      "size": 22077
+      "size": 21385
     },
     {
       "name": "Hiding Trainer",
@@ -72,7 +72,7 @@
       ],
       "id": "lua/hiding-trainer",
       "dir": "scripts/lua/hiding-trainer",
-      "size": 89
+      "size": 86
     },
     {
       "name": "Inscription Assistant",
@@ -96,7 +96,7 @@
       ],
       "id": "lua/inscription-assistant",
       "dir": "scripts/lua/inscription-assistant",
-      "size": 13951
+      "size": 13540
     },
     {
       "name": "Lockpicking Trainer",
@@ -120,7 +120,7 @@
       ],
       "id": "lua/lockpicking-trainer",
       "dir": "scripts/lua/lockpicking-trainer",
-      "size": 2522
+      "size": 2427
     },
     {
       "name": "Mining Assistant",
@@ -145,7 +145,7 @@
       ],
       "id": "lua/mining-assistant",
       "dir": "scripts/lua/mining-assistant",
-      "size": 9312
+      "size": 9032
     },
     {
       "name": "Musicianship Trainer",
@@ -169,7 +169,7 @@
       ],
       "id": "lua/musicianship-trainer",
       "dir": "scripts/lua/musicianship-trainer",
-      "size": 983
+      "size": 953
     },
     {
       "name": "Show All Hues",
@@ -193,7 +193,7 @@
       ],
       "id": "lua/show-all-hues",
       "dir": "scripts/lua/show-all-hues",
-      "size": 2326
+      "size": 2273
     },
     {
       "name": "Simple Scavenger",
@@ -218,7 +218,7 @@
       ],
       "id": "lua/simple-scavenger",
       "dir": "scripts/lua/simple-scavenger",
-      "size": 1142
+      "size": 1103
     },
     {
       "name": "Stealing Trainer",
@@ -242,7 +242,7 @@
       ],
       "id": "lua/stealing-trainer",
       "dir": "scripts/lua/stealing-trainer",
-      "size": 1884
+      "size": 1811
     },
     {
       "name": "UI Example - Pet Window",
@@ -266,7 +266,7 @@
       ],
       "id": "lua/ui-example-pet-window",
       "dir": "scripts/lua/ui-example-pet-window",
-      "size": 1818
+      "size": 1751
     },
     {
       "name": "AutoArchery",
@@ -291,7 +291,7 @@
       ],
       "id": "vscript/auto-archery",
       "dir": "scripts/vscript/auto-archery",
-      "size": 69096
+      "size": 66778
     },
     {
       "name": "MageryTrainer",
@@ -315,7 +315,7 @@
       ],
       "id": "vscript/magery-trainer",
       "dir": "scripts/vscript/magery-trainer",
-      "size": 94963
+      "size": 91759
     }
   ]
 }
