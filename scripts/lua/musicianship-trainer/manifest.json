@@ -1,0 +1,21 @@
+{
+  "name": "Musicianship Trainer",
+  "slug": "musicianship-trainer",
+  "language": "lua",
+  "author": "3HMonkey",
+  "description": "Picks the best instrument from your backpack (priority list like the classic UOSteam macro) and plays it until the target skill is reached. Re-finds the next instrument automatically when one breaks.",
+  "category": "training",
+  "tags": [
+    "training"
+  ],
+  "created": "2026-08-11",
+  "updated": "2026-08-11",
+  "latest": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "versions/1.0.0.lua",
+      "date": "2026-08-11"
+    }
+  ]
+}

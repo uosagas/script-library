@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-11T06:26:30Z",
-  "count": 3,
+  "generated": "2026-08-11T12:42:18Z",
+  "count": 5,
   "scripts": [
     {
       "name": "Loot Organizer",
@@ -25,7 +25,55 @@
       ],
       "id": "lua/loot-organizer",
       "dir": "scripts/lua/loot-organizer",
-      "size": 19903
+      "size": 20449
+    },
+    {
+      "name": "Magery Trainer",
+      "slug": "magery-trainer",
+      "language": "lua",
+      "author": "3HMonkey",
+      "description": "Trains Magery from 30 to 100 by casting the cheapest spell that still gains, meditates when mana runs out and optionally restocks exactly the reagents the current spell needs from a container.",
+      "category": "training",
+      "tags": [
+        "training"
+      ],
+      "created": "2026-08-11",
+      "updated": "2026-08-11",
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "file": "versions/1.0.0.lua",
+          "date": "2026-08-11"
+        }
+      ],
+      "id": "lua/magery-trainer",
+      "dir": "scripts/lua/magery-trainer",
+      "size": 10641
+    },
+    {
+      "name": "Musicianship Trainer",
+      "slug": "musicianship-trainer",
+      "language": "lua",
+      "author": "3HMonkey",
+      "description": "Picks the best instrument from your backpack (priority list like the classic UOSteam macro) and plays it until the target skill is reached. Re-finds the next instrument automatically when one breaks.",
+      "category": "training",
+      "tags": [
+        "training"
+      ],
+      "created": "2026-08-11",
+      "updated": "2026-08-11",
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "file": "versions/1.0.0.lua",
+          "date": "2026-08-11"
+        }
+      ],
+      "id": "lua/musicianship-trainer",
+      "dir": "scripts/lua/musicianship-trainer",
+      "size": 3854
     },
     {
       "name": "UI Example - Advanced",
@@ -50,7 +98,7 @@
       ],
       "id": "lua/ui-example-advanced",
       "dir": "scripts/lua/ui-example-advanced",
-      "size": 7068
+      "size": 7271
     },
     {
       "name": "UI Example - Simple",
@@ -74,7 +122,7 @@
       ],
       "id": "lua/ui-example-simple",
       "dir": "scripts/lua/ui-example-simple",
-      "size": 2206
+      "size": 2268
     }
   ]
 }
