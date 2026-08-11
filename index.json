@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-11T06:26:12Z",
+  "generated": "2026-08-11T06:26:30Z",
   "count": 3,
   "scripts": [
     {
@@ -25,7 +25,7 @@
       ],
       "id": "lua/loot-organizer",
       "dir": "scripts/lua/loot-organizer",
-      "size": 20449
+      "size": 19903
     },
     {
       "name": "UI Example - Advanced",
@@ -50,7 +50,7 @@
       ],
       "id": "lua/ui-example-advanced",
       "dir": "scripts/lua/ui-example-advanced",
-      "size": 7271
+      "size": 7068
     },
     {
       "name": "UI Example - Simple",
@@ -74,7 +74,7 @@
       ],
       "id": "lua/ui-example-simple",
       "dir": "scripts/lua/ui-example-simple",
-      "size": 2268
+      "size": 2206
     }
   ]
 }
