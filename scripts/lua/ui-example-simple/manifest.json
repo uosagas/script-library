@@ -1,0 +1,21 @@
+{
+  "name": "UI Example - Simple",
+  "slug": "ui-example-simple",
+  "language": "lua",
+  "author": "3HMonkey",
+  "description": "The smallest useful script window: labels, a live-updating label, a button callback and a checkbox.",
+  "category": "helpers",
+  "tags": [
+    "helpers"
+  ],
+  "created": "2026-08-11",
+  "updated": "2026-08-11",
+  "latest": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "versions/1.0.0.lua",
+      "date": "2026-08-11"
+    }
+  ]
+}

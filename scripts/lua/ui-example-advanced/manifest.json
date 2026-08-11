@@ -1,0 +1,22 @@
+{
+  "name": "UI Example - Advanced",
+  "slug": "ui-example-advanced",
+  "language": "lua",
+  "author": "3HMonkey",
+  "description": "A character dashboard that uses every script-UI control: live progress bars, sliders, text input, rows, visibility toggles and settings that persist via the Config API.",
+  "category": "helpers",
+  "tags": [
+    "helpers",
+    "utility"
+  ],
+  "created": "2026-08-11",
+  "updated": "2026-08-11",
+  "latest": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "versions/1.0.0.lua",
+      "date": "2026-08-11"
+    }
+  ]
+}

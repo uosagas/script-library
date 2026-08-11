@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-10T21:34:04Z",
-  "count": 1,
+  "generated": "2026-08-11T06:26:12Z",
+  "count": 3,
   "scripts": [
     {
       "name": "Loot Organizer",
@@ -25,7 +25,56 @@
       ],
       "id": "lua/loot-organizer",
       "dir": "scripts/lua/loot-organizer",
-      "size": 19903
+      "size": 20449
+    },
+    {
+      "name": "UI Example - Advanced",
+      "slug": "ui-example-advanced",
+      "language": "lua",
+      "author": "3HMonkey",
+      "description": "A character dashboard that uses every script-UI control: live progress bars, sliders, text input, rows, visibility toggles and settings that persist via the Config API.",
+      "category": "helpers",
+      "tags": [
+        "helpers",
+        "utility"
+      ],
+      "created": "2026-08-11",
+      "updated": "2026-08-11",
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "file": "versions/1.0.0.lua",
+          "date": "2026-08-11"
+        }
+      ],
+      "id": "lua/ui-example-advanced",
+      "dir": "scripts/lua/ui-example-advanced",
+      "size": 7271
+    },
+    {
+      "name": "UI Example - Simple",
+      "slug": "ui-example-simple",
+      "language": "lua",
+      "author": "3HMonkey",
+      "description": "The smallest useful script window: labels, a live-updating label, a button callback and a checkbox.",
+      "category": "helpers",
+      "tags": [
+        "helpers"
+      ],
+      "created": "2026-08-11",
+      "updated": "2026-08-11",
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "file": "versions/1.0.0.lua",
+          "date": "2026-08-11"
+        }
+      ],
+      "id": "lua/ui-example-simple",
+      "dir": "scripts/lua/ui-example-simple",
+      "size": 2268
     }
   ]
 }
