@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-11T12:42:26Z",
+  "generated": "2026-08-12T06:16:26Z",
   "count": 5,
   "scripts": [
     {
@@ -25,7 +25,7 @@
       ],
       "id": "lua/loot-organizer",
       "dir": "scripts/lua/loot-organizer",
-      "size": 19903
+      "size": 20449
     },
     {
       "name": "Magery Trainer",
@@ -38,18 +38,23 @@
         "training"
       ],
       "created": "2026-08-11",
-      "updated": "2026-08-11",
-      "latest": "1.0.0",
+      "updated": "2026-08-12",
+      "latest": "1.1.0",
       "versions": [
         {
           "version": "1.0.0",
           "file": "versions/1.0.0.lua",
           "date": "2026-08-11"
+        },
+        {
+          "version": "1.1.0",
+          "file": "versions/1.1.0.lua",
+          "date": "2026-08-12"
         }
       ],
       "id": "lua/magery-trainer",
       "dir": "scripts/lua/magery-trainer",
-      "size": 10334
+      "size": 7222
     },
     {
       "name": "Musicianship Trainer",
@@ -73,7 +78,7 @@
       ],
       "id": "lua/musicianship-trainer",
       "dir": "scripts/lua/musicianship-trainer",
-      "size": 3745
+      "size": 3854
     },
     {
       "name": "UI Example - Advanced",
@@ -98,7 +103,7 @@
       ],
       "id": "lua/ui-example-advanced",
       "dir": "scripts/lua/ui-example-advanced",
-      "size": 7068
+      "size": 7271
     },
     {
       "name": "UI Example - Simple",
@@ -122,7 +127,7 @@
       ],
       "id": "lua/ui-example-simple",
       "dir": "scripts/lua/ui-example-simple",
-      "size": 2206
+      "size": 2268
     }
   ]
 }
