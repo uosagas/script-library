@@ -1,0 +1,21 @@
+{
+  "name": "Stealth and Hiding Trainer",
+  "slug": "stealth-and-hiding-trainer",
+  "language": "lua",
+  "author": "3HMonkey",
+  "description": "Trains Stealth by travelling through a moongate and stealthing after every trip, rotating through all destinations. Can train Hiding to 80 first and equips a ringmail tunic and sleeves from 80 Stealth on. Target values are set in variables at the top of the script.",
+  "category": "training",
+  "tags": [
+    "training"
+  ],
+  "created": "2026-08-12",
+  "updated": "2026-08-12",
+  "latest": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "versions/1.0.0.lua",
+      "date": "2026-08-12"
+    }
+  ]
+}

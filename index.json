@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T06:22:51Z",
-  "count": 6,
+  "generated": "2026-08-12T07:35:53Z",
+  "count": 7,
   "scripts": [
     {
       "name": "Config Example",
@@ -24,7 +24,7 @@
       ],
       "id": "lua/config-example",
       "dir": "scripts/lua/config-example",
-      "size": 4221
+      "size": 4329
     },
     {
       "name": "Loot Organizer",
@@ -49,7 +49,7 @@
       ],
       "id": "lua/loot-organizer",
       "dir": "scripts/lua/loot-organizer",
-      "size": 19903
+      "size": 20449
     },
     {
       "name": "Magery Trainer",
@@ -78,7 +78,7 @@
       ],
       "id": "lua/magery-trainer",
       "dir": "scripts/lua/magery-trainer",
-      "size": 6972
+      "size": 7222
     },
     {
       "name": "Musicianship Trainer",
@@ -102,7 +102,31 @@
       ],
       "id": "lua/musicianship-trainer",
       "dir": "scripts/lua/musicianship-trainer",
-      "size": 3745
+      "size": 3854
+    },
+    {
+      "name": "Stealth and Hiding Trainer",
+      "slug": "stealth-and-hiding-trainer",
+      "language": "lua",
+      "author": "3HMonkey",
+      "description": "Trains Stealth by travelling through a moongate and stealthing after every trip, rotating through all destinations. Can train Hiding to 80 first and equips a ringmail tunic and sleeves from 80 Stealth on. Target values are set in variables at the top of the script.",
+      "category": "training",
+      "tags": [
+        "training"
+      ],
+      "created": "2026-08-12",
+      "updated": "2026-08-12",
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "file": "versions/1.0.0.lua",
+          "date": "2026-08-12"
+        }
+      ],
+      "id": "lua/stealth-and-hiding-trainer",
+      "dir": "scripts/lua/stealth-and-hiding-trainer",
+      "size": 6307
     },
     {
       "name": "UI Example - Advanced",
@@ -127,7 +151,7 @@
       ],
       "id": "lua/ui-example-advanced",
       "dir": "scripts/lua/ui-example-advanced",
-      "size": 7068
+      "size": 7271
     },
     {
       "name": "UI Example - Simple",
@@ -151,7 +175,7 @@
       ],
       "id": "lua/ui-example-simple",
       "dir": "scripts/lua/ui-example-simple",
-      "size": 2206
+      "size": 2268
     }
   ]
 }
