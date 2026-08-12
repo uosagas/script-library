@@ -1,0 +1,21 @@
+{
+  "name": "Config Example",
+  "slug": "config-example",
+  "language": "lua",
+  "author": "3HMonkey",
+  "description": "Shows the whole Config API: defaults, loading, saving, nested tables, Exists and Delete. Run it a few times and watch the values survive restarts.",
+  "category": "helpers",
+  "tags": [
+    "helpers"
+  ],
+  "created": "2026-08-12",
+  "updated": "2026-08-12",
+  "latest": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "versions/1.0.0.lua",
+      "date": "2026-08-12"
+    }
+  ]
+}
