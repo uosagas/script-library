@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T06:16:26Z",
+  "generated": "2026-08-12T06:16:37Z",
   "count": 5,
   "scripts": [
     {
@@ -25,7 +25,7 @@
       ],
       "id": "lua/loot-organizer",
       "dir": "scripts/lua/loot-organizer",
-      "size": 20449
+      "size": 19903
     },
     {
       "name": "Magery Trainer",
@@ -54,7 +54,7 @@
       ],
       "id": "lua/magery-trainer",
       "dir": "scripts/lua/magery-trainer",
-      "size": 7222
+      "size": 6972
     },
     {
       "name": "Musicianship Trainer",
@@ -78,7 +78,7 @@
       ],
       "id": "lua/musicianship-trainer",
       "dir": "scripts/lua/musicianship-trainer",
-      "size": 3854
+      "size": 3745
     },
     {
       "name": "UI Example - Advanced",
@@ -103,7 +103,7 @@
       ],
       "id": "lua/ui-example-advanced",
       "dir": "scripts/lua/ui-example-advanced",
-      "size": 7271
+      "size": 7068
     },
     {
       "name": "UI Example - Simple",
@@ -127,7 +127,7 @@
       ],
       "id": "lua/ui-example-simple",
       "dir": "scripts/lua/ui-example-simple",
-      "size": 2268
+      "size": 2206
     }
   ]
 }
