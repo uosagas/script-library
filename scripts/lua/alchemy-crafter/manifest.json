@@ -1,0 +1,21 @@
+{
+  "name": "Alchemy Crafter",
+  "slug": "alchemy-crafter",
+  "language": "lua",
+  "author": "3HMonkey",
+  "description": "Crafts potion kegs and fills them from a per-type work list (checkbox + amount per keg type), with a live resource overview for backpack AND containers, statistics and unloading of finished kegs.",
+  "category": "crafting",
+  "tags": [
+    "crafting"
+  ],
+  "created": "2026-08-13",
+  "updated": "2026-08-13",
+  "latest": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "versions/1.0.0.lua",
+      "date": "2026-08-13"
+    }
+  ]
+}

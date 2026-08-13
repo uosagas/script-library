@@ -1,7 +1,31 @@
 {
-  "generated": "2026-08-13T08:56:31Z",
-  "count": 8,
+  "generated": "2026-08-13T13:43:20Z",
+  "count": 9,
   "scripts": [
+    {
+      "name": "Alchemy Crafter",
+      "slug": "alchemy-crafter",
+      "language": "lua",
+      "author": "3HMonkey",
+      "description": "Crafts potion kegs and fills them from a per-type work list (checkbox + amount per keg type), with a live resource overview for backpack AND containers, statistics and unloading of finished kegs.",
+      "category": "crafting",
+      "tags": [
+        "crafting"
+      ],
+      "created": "2026-08-13",
+      "updated": "2026-08-13",
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "file": "versions/1.0.0.lua",
+          "date": "2026-08-13"
+        }
+      ],
+      "id": "lua/alchemy-crafter",
+      "dir": "scripts/lua/alchemy-crafter",
+      "size": 54790
+    },
     {
       "name": "Blacksmithy Trainer",
       "slug": "blacksmithy-trainer",
@@ -25,7 +49,7 @@
       ],
       "id": "lua/blacksmithy-trainer",
       "dir": "scripts/lua/blacksmithy-trainer",
-      "size": 28054
+      "size": 28857
     },
     {
       "name": "Config Example",
@@ -49,7 +73,7 @@
       ],
       "id": "lua/config-example",
       "dir": "scripts/lua/config-example",
-      "size": 4221
+      "size": 4329
     },
     {
       "name": "Loot Organizer",
@@ -74,7 +98,7 @@
       ],
       "id": "lua/loot-organizer",
       "dir": "scripts/lua/loot-organizer",
-      "size": 19903
+      "size": 20449
     },
     {
       "name": "Magery Trainer",
@@ -103,7 +127,7 @@
       ],
       "id": "lua/magery-trainer",
       "dir": "scripts/lua/magery-trainer",
-      "size": 6972
+      "size": 7222
     },
     {
       "name": "Musicianship Trainer",
@@ -127,7 +151,7 @@
       ],
       "id": "lua/musicianship-trainer",
       "dir": "scripts/lua/musicianship-trainer",
-      "size": 3745
+      "size": 3854
     },
     {
       "name": "Stealth and Hiding Trainer",
@@ -176,7 +200,7 @@
       ],
       "id": "lua/ui-example-advanced",
       "dir": "scripts/lua/ui-example-advanced",
-      "size": 7068
+      "size": 7271
     },
     {
       "name": "UI Example - Simple",
@@ -200,7 +224,7 @@
       ],
       "id": "lua/ui-example-simple",
       "dir": "scripts/lua/ui-example-simple",
-      "size": 2206
+      "size": 2268
     }
   ]
 }
