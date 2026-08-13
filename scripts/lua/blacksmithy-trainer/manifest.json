@@ -1,0 +1,22 @@
+{
+  "name": "Blacksmithy Trainer",
+  "slug": "blacksmithy-trainer",
+  "language": "lua",
+  "author": "3HMonkey",
+  "description": "Trains Blacksmithy from 35 to 120 by crafting the best item for your current skill, with a live window: resource counter, progress, statistics, optional smelting of what it makes, restocking from a container and self-crafted hammers.",
+  "category": "training",
+  "tags": [
+    "training",
+    "crafting"
+  ],
+  "created": "2026-08-13",
+  "updated": "2026-08-13",
+  "latest": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "versions/1.0.0.lua",
+      "date": "2026-08-13"
+    }
+  ]
+}
