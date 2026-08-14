@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T13:43:31Z",
-  "count": 9,
+  "generated": "2026-08-14T09:18:37Z",
+  "count": 10,
   "scripts": [
     {
       "name": "Alchemy Crafter",
@@ -49,7 +49,7 @@
       ],
       "id": "lua/blacksmithy-trainer",
       "dir": "scripts/lua/blacksmithy-trainer",
-      "size": 28054
+      "size": 28857
     },
     {
       "name": "Config Example",
@@ -73,7 +73,7 @@
       ],
       "id": "lua/config-example",
       "dir": "scripts/lua/config-example",
-      "size": 4221
+      "size": 4329
     },
     {
       "name": "Loot Organizer",
@@ -98,7 +98,7 @@
       ],
       "id": "lua/loot-organizer",
       "dir": "scripts/lua/loot-organizer",
-      "size": 19903
+      "size": 20449
     },
     {
       "name": "Magery Trainer",
@@ -127,7 +127,7 @@
       ],
       "id": "lua/magery-trainer",
       "dir": "scripts/lua/magery-trainer",
-      "size": 6972
+      "size": 7222
     },
     {
       "name": "Musicianship Trainer",
@@ -151,7 +151,32 @@
       ],
       "id": "lua/musicianship-trainer",
       "dir": "scripts/lua/musicianship-trainer",
-      "size": 3745
+      "size": 3854
+    },
+    {
+      "name": "Runebook Copier",
+      "slug": "runebook-copier",
+      "language": "lua",
+      "author": "3HMonkey",
+      "description": "Copies a runebook into one or more target books: recalls to every entry, marks fresh runes on the spot (one per target book), names them like the original and drops them in. Restocks reagents and runes at home, meditates when mana runs low, and resumes an interrupted run by comparing entry names.",
+      "category": "utility",
+      "tags": [
+        "utility",
+        "helpers"
+      ],
+      "created": "2026-08-14",
+      "updated": "2026-08-14",
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "file": "versions/1.0.0.lua",
+          "date": "2026-08-14"
+        }
+      ],
+      "id": "lua/runebook-copier",
+      "dir": "scripts/lua/runebook-copier",
+      "size": 49172
     },
     {
       "name": "Stealth and Hiding Trainer",
@@ -200,7 +225,7 @@
       ],
       "id": "lua/ui-example-advanced",
       "dir": "scripts/lua/ui-example-advanced",
-      "size": 7068
+      "size": 7271
     },
     {
       "name": "UI Example - Simple",
@@ -224,7 +249,7 @@
       ],
       "id": "lua/ui-example-simple",
       "dir": "scripts/lua/ui-example-simple",
-      "size": 2206
+      "size": 2268
     }
   ]
 }

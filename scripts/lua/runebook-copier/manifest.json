@@ -1,0 +1,22 @@
+{
+  "name": "Runebook Copier",
+  "slug": "runebook-copier",
+  "language": "lua",
+  "author": "3HMonkey",
+  "description": "Copies a runebook into one or more target books: recalls to every entry, marks fresh runes on the spot (one per target book), names them like the original and drops them in. Restocks reagents and runes at home, meditates when mana runs low, and resumes an interrupted run by comparing entry names.",
+  "category": "utility",
+  "tags": [
+    "utility",
+    "helpers"
+  ],
+  "created": "2026-08-14",
+  "updated": "2026-08-14",
+  "latest": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "versions/1.0.0.lua",
+      "date": "2026-08-14"
+    }
+  ]
+}
